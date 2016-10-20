@@ -40,6 +40,7 @@ public class MyWorld {
         //I wanna change something
         ObjectInputStream in1 = new ObjectInputStream(new ByteArrayInputStream(buf1.toByteArray()));
         ObjectInputStream in2 = new ObjectInputStream(new ByteArrayInputStream(buf2.toByteArray()));
+        //here add another thing
         List animals1 = (List)in1.readObject(),
                 animals2 = (List)in1.readObject(),
                 animals3 = (List)in2.readObject();
