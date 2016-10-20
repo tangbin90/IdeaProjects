@@ -37,7 +37,7 @@ public class MyWorld {
         ByteArrayOutputStream buf2 = new ByteArrayOutputStream();
         ObjectOutputStream o2 = new ObjectOutputStream(buf2);
         o2.writeObject(animals);
-
+        //I wanna change something
         ObjectInputStream in1 = new ObjectInputStream(new ByteArrayInputStream(buf1.toByteArray()));
         ObjectInputStream in2 = new ObjectInputStream(new ByteArrayInputStream(buf2.toByteArray()));
         List animals1 = (List)in1.readObject(),
