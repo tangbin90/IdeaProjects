@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0919e566-82fa-432b-a279-061e48e3ab71" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MyWorld.java" afterPath="$PROJECT_DIR$/src/MyWorld.java" />
-    </list>
+    <list default="true" id="0919e566-82fa-432b-a279-061e48e3ab71" name="Default" comment="" />
     <ignored path="Chapter18.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -58,8 +56,8 @@
       <file leaf-file-name="MyWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+            <state relative-caret-position="190">
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -838,12 +836,12 @@
       <workItem from="1476239917323" duration="20949000" />
       <workItem from="1476700683312" duration="24881000" />
       <workItem from="1476985964142" duration="46000" />
-      <workItem from="1476986157393" duration="749000" />
+      <workItem from="1476986157393" duration="1360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62977000" />
+    <option name="totallyTimeSpent" value="63588000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1288,8 +1286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        <state relative-caret-position="190">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
