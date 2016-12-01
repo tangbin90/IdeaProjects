@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TIJ4-code:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TIJ4_code_jar</output-path>
+    <root id="archive" name="TIJ4-code.jar">
+      <element id="module-output" name="TIJ4-code" />
+    </root>
+  </artifact>
+</component>

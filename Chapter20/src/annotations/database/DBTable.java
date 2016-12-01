@@ -10,3 +10,4 @@ import java.lang.annotation.*;
 public @interface DBTable {
     public String name() default "";
 }
+

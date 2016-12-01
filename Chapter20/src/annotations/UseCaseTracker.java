@@ -1,6 +1,7 @@
 package annotations;
 import java.lang.reflect.*;
 import java.util.*;
+import net.mindview.util.*;
 /**
  * Created by TangBin on 26/10/2016.
  */
