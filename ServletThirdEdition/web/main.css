@@ -1,0 +1,59 @@
+
+/*---------------------按钮-----------------------------*/
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.login_ico{
+    width:140px;
+    margin:0 auto;
+
+}
+
+.inputform{
+    width:400px;
+    margin:0 auto;
+}
+
+li{
+    list-style-type: none;
+}
+.login_putin{
+    width: 300px;
+    margin:0 auto;
+
+}
+.login_putin ul li input{
+    margin: 0 auto;
+    width:100%;
+    padding: 1em 1em 1em 1em;
+    -webkit-border-radius:.3em;
+    -moz-border-radius: .3em;
+    font-size:10px;
+    font-weight:bolder;
+    border: 1px solid #999;
+}
+
+.login_btn{
+    width:300px;
+    margin:0 auto;
+}
+
+.login_btn input{
+    width:100%;
+    margin:10px;
+    padding: 0.1em 0;
+    -webkit-border-radius:.4em;
+    -moz-border-radius: .4em;
+    border:#1263be solid 1px;
+    background:#1b85fd;
+    color:#FFF;
+    font-size:25px;
+    font-weight:bolder;
+    letter-spacing:1em;
+}
+
+.login_btn input:hover {
+    background: #1263be;
+}
